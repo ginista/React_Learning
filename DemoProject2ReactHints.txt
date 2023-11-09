@@ -1,0 +1,19 @@
+Form
+
+Username
+Age(years)
+Add User(button)
+
+
+Overlay
+-------
+Invalid input
+Please enter a valid name and age(non-empty values)
+okay (button)
+Please enter a valid age(>0)
+
+Your tasks
+----------
+1)Core component(Add component)form
+2)Manage state(List of users)
+3)Output users conditionally & show Error modal
